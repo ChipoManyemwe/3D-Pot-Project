@@ -5,7 +5,7 @@ A simple 3D clay pot model created as part of my learning in 3D NURBS modeling a
 ## Preview
 Here’s the pot:
 
-![Pot](pot_f.png)
+![3D Pot Render](pot_f/pot_f.png)
 
 ## Tools Used
 - Autodesk Maya (for modeling)
